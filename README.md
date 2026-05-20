@@ -64,17 +64,16 @@ Este projeto investiga a capacidade de **Modelos de Linguagem de Grande Escala (
 ```
 📦 simulacao-opiniao-publica-cesop/
 ├── 📓 simulacao_opiniao_publica_cesop.ipynb   ← Notebook principal
-├── 📄 artigo_simulacao_cesop.md               ← Artigo completo
-├── 📋 resumo_simulacao.csv                    ← Métricas exportadas
-├── 📋 respostas_individuais_fold0.csv         ← Respostas simuladas
-├── 🖼️ images/
-│   ├── fig1.png   ← Distribuições P12 e P25
-│   ├── fig2.png   ← Distribuições P20
-│   ├── fig3.png   ← Estabilidade entre folds
-│   ├── fig4.png   ← Importância dos atributos (LLM)
-│   ├── fig5.png   ← Análise por raça/cor × escolaridade
-│   ├── fig6.png   ← Importância Gini (Random Forest)
-│   └── fig7.png   ← Comparação LLM × Random Forest
+├── Artigo
+│    ├── 🖼️ images/
+│    │   ├── fig1.png   ← Distribuições P12 e P25
+│    │   ├── fig2.png   ← Distribuições P20
+│    │   ├── fig3.png   ← Estabilidade entre folds
+│    │   ├── fig4.png   ← Importância dos atributos (LLM)
+│    │   ├── fig5.png   ← Análise por raça/cor × escolaridade
+│    │   ├── fig6.png   ← Importância Gini (Random Forest)
+│    │   └── fig7.png   ← Comparação LLM × Random Forest
+│    └── 📄 artigo_simulacao_cesop.md               ← Artigo completo
 └── 📝 README.md
 ```
 
