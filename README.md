@@ -1,15 +1,5 @@
 # Simulação de Opinião Pública com LLMs — CESOP/Unicamp
 
-> Autores: **Alex Kazuo Kodama - 10417942@mackenzista.com.br**, 
-**Gabriel Tortolio Fonseca - 10416751@mackenzista.com.br**,
-**Marco Antônio de Camargo - 10418309@mackenzista.com.br**,
-**Natan Moreira Passos - 10417916@mackenzista.com.br**,
-**Nícolas Henriques de Almeida - 10418357@mackenzista.com.br**,
-**Thomas Pinheiro Grandin - 104181118@mackenzista.com.br**<br> 
-
-> Trabalho desenvolvido para a disciplina **Inteligência Artificial** — Ciência da Computação  
-> Universidade Presbiteriana Mackenzie — 7º semestre
-
 ---
 
 ## 📋 Sumário de Entregas
@@ -110,6 +100,14 @@ Este projeto investiga a capacidade de **Modelos de Linguagem de Grande Escala (
 
 ## 👥 Autores
 
-[Nomes dos Autores]  
-Universidade Presbiteriana Mackenzie — Ciência da Computação  
-`{emails@mackenzie.br}`
+> Autores: **Alex Kazuo Kodama - 10417942@mackenzista.com.br**, 
+**Gabriel Tortolio Fonseca - 10416751@mackenzista.com.br**,
+**Marco Antônio de Camargo - 10418309@mackenzista.com.br**,
+**Natan Moreira Passos - 10417916@mackenzista.com.br**,
+**Nícolas Henriques de Almeida - 10418357@mackenzista.com.br**,
+**Thomas Pinheiro Grandin - 104181118@mackenzista.com.br**<br>
+
+> Trabalho desenvolvido para a disciplina **Inteligência Artificial** — Ciência da Computação
+  
+> Universidade Presbiteriana Mackenzie — 7º semestre
+
