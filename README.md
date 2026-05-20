@@ -8,10 +8,8 @@
 |---|---------|-----------|---------|
 | 1 | Artigo | Artigo completo em Markdown | `artigo_simulacao_cesop.md` |
 | 2 | Notebook | Pipeline completo de simulação | `simulacao_opiniao_publica_cesop.ipynb` |
-| 3 | Métricas | Resumo das métricas por questão e fold | `resumo_simulacao.csv` |
-| 4 | Respostas simuladas | Respostas individuais geradas (fold 0) | `respostas_individuais_fold0.csv` |
-| 5 | Figuras | Gráficos de distribuição e explicabilidade | `images/fig1.png` … `fig7.png` |
-| 6 | Vídeo | Apresentação em vídeo (YouTube) | [link] |
+| 3 | Figuras | Gráficos de distribuição e explicabilidade | `images/fig1.png` … `fig7.png` |
+| 4 | Vídeo | Apresentação em vídeo (YouTube) | [link] |
 
 ---
 
