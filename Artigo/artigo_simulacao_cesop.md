@@ -1,9 +1,13 @@
 # Simulação de Opinião Pública com Modelos de Linguagem de Grande Escala: Um Estudo sobre Racismo Ambiental e Representação Étnico-Racial no Brasil
 
-**[Nomes dos Autores]**  
-[Nome da Instituição / Curso]  
-[Cidade, Estado, Brasil]  
-`{emails@instituicao.br}`
+**Alex Kazuo Kodama - 10417942@mackenzista.com.br**, 
+**Gabriel Tortolio Fonseca - 10416751@mackenzista.com.br**,
+**Marco Antônio de Camargo - 10418309@mackenzista.com.br**,
+**Natan Moreira Passos - 10417916@mackenzista.com.br**,
+**Nícolas Henriques de Almeida - 10418357@mackenzista.com.br**,
+**Thomas Pinheiro Grandin - 104181118@mackenzista.com.br**<br> 
+[Universidade Presbiteriana Mackenzie / Ciência da Computação]<br>
+[São Paulo (SP), Brasil]  
 
 ---
 
