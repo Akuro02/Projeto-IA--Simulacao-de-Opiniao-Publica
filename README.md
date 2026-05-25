@@ -9,7 +9,7 @@
 | 1 | Artigo | Artigo completo em Markdown | `artigo_simulacao_cesop.md` |
 | 2 | Notebook | Pipeline completo de simulação | `simulacao_opiniao_publica_cesop.ipynb` |
 | 3 | Figuras | Gráficos de distribuição e explicabilidade | `images/fig1.png` … `fig7.png` |
-| 4 | Vídeo | Apresentação em vídeo (YouTube) | [link] |
+| 4 | Vídeo | Apresentação em vídeo (YouTube) | https://youtu.be/C7uYLcivV-E |
 
 ---
 
